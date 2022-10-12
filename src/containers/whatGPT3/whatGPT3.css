@@ -104,9 +104,12 @@
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 400px) {
   .gpt3__whatgpt3_container .gpt3__features_container_feature {
     margin: 1rem 0;
     min-width: 100%;
+  }
+  .gpt3__features_container_feature_text p{
+    margin: 1rem 0;
   }
 }
